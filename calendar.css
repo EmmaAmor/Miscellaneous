@@ -1,0 +1,40 @@
+.col{
+    padding: 40px;
+    border:1px solid azure;
+
+}
+.days{
+    background-color: rgb(119, 162, 255);
+    font-weight: bold;
+    color: azure;
+}    
+.other{
+    background-color: rgb(187, 187, 187);
+}
+.oct{
+    background-color: rgb(220, 231, 255);
+}
+.wend{
+    background-color: rgb(204, 168, 252);
+}
+
+.oct:hover{
+    background-color: rgb(175, 199, 250);
+}
+.wend:hover{
+    background-color:rgb(179, 122, 255) ;
+}
+.container{
+    border: 1px solid azure;
+}
+.container-fluid{
+    color: rgb(218, 135, 40);
+    background-color: rgb(129, 78, 0);
+    background-image: linear-gradient(to top, rgb(129, 78, 0), rgb(197, 150, 80));
+    padding: 10px;
+}
+.col-lg-3{
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+}

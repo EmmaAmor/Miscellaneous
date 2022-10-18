@@ -1,0 +1,52 @@
+.container-fluid{
+    padding: 50px 50px;
+    background-color: rgb(22, 22, 22);
+}
+body{
+    padding: 50px 50px;
+}
+.htext1{
+    padding-top: 100px;
+    padding-right: 100px;
+    color: rgb(231, 150, 0);
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
+.htext2{
+    color: rgb(231, 150, 0);
+    font-family: 'Poppins', sans-serif;
+    font-weight: 100;
+}
+.hbtn{
+    background-color: rgb(231, 150, 0);
+    color: rgb(32, 32, 32);
+    font-family: 'Poppins', sans-serif;
+    font-weight: 100;
+    font-weight: normal;
+}
+.hbtn:hover{
+    color: white;
+    background-color: rgb(167, 108, 0);
+}
+.mitad2{
+    padding-left: 100px;
+}
+.bank{
+    background-image: url(https://cdn.corporatefinanceinstitute.com/assets/how-do-banks-make-money.jpeg);
+    height: 466px;
+    background-repeat: no-repeat;
+}
+.btext1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    color: azure;
+}
+.btext2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    color: azure;
+}
+.pad{
+    padding: 50px;
+    padding-left: 200px;
+}

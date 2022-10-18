@@ -1,0 +1,14 @@
+li, p {
+    color: aquamarine;
+    font-size: 20px;
+}
+
+.primer-elemento {
+    color: blueviolet;
+}
+
+#subtitulo{
+    border: 2px dashed green;
+    padding: 10px 20px;
+    margin: 50px;
+}

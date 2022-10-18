@@ -1,0 +1,15 @@
+.caja{
+    border: 5px solid;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 40px;
+    width: 200px;
+}
+
+.caja h2 {
+    text-align: center;
+}
+
+.caja p {
+    text-align: justify;
+}

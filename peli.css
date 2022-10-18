@@ -1,0 +1,42 @@
+.caja{
+    color: pink;
+    border: 5px solid;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 40px;
+    width: 500px;
+    background-color: rgb(255, 223, 228);
+    
+}
+
+.caja h1 {
+    color: rgb(226, 169, 178);
+    text-align: center;
+}
+
+.caja p {
+    color:  rgb(226, 169, 178) ;
+    text-align: justify;
+}
+.caja a {
+    color: rgb(224, 147, 173);
+    text-align: center;
+    border: 2px solid;
+    border-radius: 5px;
+    border-color: rgb(226, 169, 178);
+    background-color: pink;
+    display: block;
+    text-decoration: none;
+    padding: 5px 10px;
+    
+
+}
+.caja a:hover{
+    background-color: rgb(255, 231, 231);
+    color: rgb(226, 169, 178);
+    transition-duration: 250ms;
+}
+.caja img {
+    display: block;
+    margin: auto;
+}
